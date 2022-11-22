@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/gitmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Vickers_36E_Scott_Theodolite",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://03cc5e9f-e9f3-4769-a16f-bc8e819875a6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3219207e-fe11-40da-ba46-8a25666f53fe",
+      "@type" : "sc:Canvas",
+      "label" : "Vickers_36E_Scott_Theodolite_0001",
+      "height" : 3840,
+      "width" : 5760,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e2673bf2-b45d-4d70-8d3d-b437bbe648bd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3840,
+          "width" : 5760
+        },
+        "on" : "http://3219207e-fe11-40da-ba46-8a25666f53fe"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d29ccb4e-806a-4860-a7be-50fcfeebde62",
+      "@type" : "sc:Canvas",
+      "label" : "Vickers_36E_Scott_Theodolite_0002",
+      "height" : 3840,
+      "width" : 5760,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5a2ad438-7cb5-48e7-89ab-34ef889d9058",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0002",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3840,
+          "width" : 5760
+        },
+        "on" : "http://d29ccb4e-806a-4860-a7be-50fcfeebde62"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://52c0d623-0ed2-413c-8350-33a9cc0464d2",
+      "@type" : "sc:Canvas",
+      "label" : "Vickers_36E_Scott_Theodolite_0003",
+      "height" : 3748,
+      "width" : 5622,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c572b4ea-f4e4-4dc7-9396-8e021950d81c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3748,
+          "width" : 5622
+        },
+        "on" : "http://52c0d623-0ed2-413c-8350-33a9cc0464d2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7ef28f23-b25d-4d23-83b6-3ab8977d5426",
+      "@type" : "sc:Canvas",
+      "label" : "Vickers_36E_Scott_Theodolite_0004",
+      "height" : 3663,
+      "width" : 5495,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://de21a008-aeb1-42fc-a123-d111253811a6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://christaylorbia.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0004",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3663,
+          "width" : 5495
+        },
+        "on" : "http://7ef28f23-b25d-4d23-83b6-3ab8977d5426"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
