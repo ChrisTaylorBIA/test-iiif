@@ -1,0 +1,13 @@
+{
+  "id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ChrisTaylorBIA/test-iiif project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/manifest.json",
+    "label" : "vickers-36-e-scott-theodolite"
+  } ]
+}
