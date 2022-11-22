@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "BIA, University of York",
   "sequences" : [ {
     "@id" : "http://03cc5e9f-e9f3-4769-a16f-bc8e819875a6",
     "@type" : "sc:Sequence",
