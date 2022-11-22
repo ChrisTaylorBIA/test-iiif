@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 5622,
+    "id" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003/canvas/",
+    "label" : {
+      "none" : [ "Vickers_36E_Scott_Theodolite_0003" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 176,
+              "height" : 118
+            }, {
+              "width" : 352,
+              "height" : 235
+            }, {
+              "width" : 703,
+              "height" : 469
+            }, {
+              "width" : 1406,
+              "height" : 937
+            }, {
+              "width" : 2811,
+              "height" : 1874
+            }, {
+              "width" : 5622,
+              "height" : 3748
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5622,
+            "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3748
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5622,
+          "id" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3748
+        },
+        "target" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0003/canvas/"
+      } ]
+    } ],
+    "height" : 3748
+  }, {
     "width" : 5760,
     "id" : "https://ChrisTaylorBIA.github.io/test-iiif/images/Vickers_36E_Scott_Theodolite_0002/canvas/",
     "label" : {
