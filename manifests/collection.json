@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/manifest.json",
-    "label" : "vickers-36-e-scott-theodolite"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/gitmanifest.json",
     "label" : "Vickers_36E_Scott_Theodolite"
   } ]
