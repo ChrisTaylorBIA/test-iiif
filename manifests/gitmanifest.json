@@ -3,6 +3,11 @@
   "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/gitmanifest.json",
   "@type" : "sc:Manifest",
   "label" : "Vickers_36E_Scott_Theodolite",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/105709036131366912716/45c4a1f991ae812de7803918f3a1fd49/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
@@ -41,6 +46,11 @@
           "width" : 5760
         },
         "on" : "http://3219207e-fe11-40da-ba46-8a25666f53fe"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://christaylorbia.github.io/test-iiif/annotations/54bc1a8bb66f59fed34fb7e8a4ea90ac.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
