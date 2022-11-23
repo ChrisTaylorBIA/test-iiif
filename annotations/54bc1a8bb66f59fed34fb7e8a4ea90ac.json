@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Colour chart",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Colour chart</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chart",
+      "@type" : "oa:Tag",
+      "chars" : "Chart"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105709036131366912716",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-11-23T12:45:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669207553505",
+    "dcterms:modified" : "2022-11-23T12:46:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/gitmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=502,2306,1904,1274"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M502.05229,2305.62527h951.93682v0h951.93682v636.81699v636.81699h-951.93682h-951.93682v-636.81699z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_27041c29-02c4-41fe-908c-498ce6e77161\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"33.46405\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3219207e-fe11-40da-ba46-8a25666f53fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Label",
+      "@type" : "oa:Tag",
+      "chars" : "Label"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Label",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Label</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105709036131366912716",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-11-23T12:45:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669207533286",
+    "dcterms:modified" : "2022-11-23T12:45:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/manifests/gitmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3932,1423,441,713"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3932.11765,1422.60584h220.60784v0h220.60784v356.55556v356.55556h-220.60784h-220.60784v-356.55556z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bc22744d-5002-4944-b31a-5c4954352198\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3219207e-fe11-40da-ba46-8a25666f53fe"
+    } ]
+  } ],
+  "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/annotations/54bc1a8bb66f59fed34fb7e8a4ea90ac.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
