@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://ChrisTaylorBIA.github.io/test-iiif/annotations/54bc1a8bb66f59fed34fb7e8a4ea90ac.json" ],
+  "@id" : "https://ChrisTaylorBIA.github.io/test-iiif/annotations/collection.json",
+  "label" : "All annotations loaded in ChrisTaylorBIA/test-iiif project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
